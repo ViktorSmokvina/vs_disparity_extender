@@ -1,0 +1,11 @@
+disparity_extender_node:
+  ros__parameters:
+    speed: 2.0
+    max_steer_rad: 0.34
+    clearance: 0.22
+    bubble_radius: 0.25
+    disparity_threshold: 0.10
+    max_range: 8.0
+    fov_deg: 180.0
+    far_ratio: 0.95
+    publish_debug_scans: true
